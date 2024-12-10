@@ -15,10 +15,10 @@ def show_resume():
     resume_text = """
     AVOIN HAKEMUS
     nimi = "Petr Istomin"
-    osoite = "Talvisalonkatu 27\n\t\t57100, Savonlinna"
-    puhelin = "Puh. 0465499574"
-    email = "ipetr9572@gmail.com"
-    paivamaara = "18.01.2023"
+    osoite = "Salonkatu 17\n\t\t57100, Kaupunki"
+    puhelin = "Puh. 0128394112"
+    email = "ipetr@gmail.com"
+    paivamaara = "18.01.2024"
 
 
     osoite = "Riitta Malinen-Korppi\n\t\t57100 SAVONLINNA"
